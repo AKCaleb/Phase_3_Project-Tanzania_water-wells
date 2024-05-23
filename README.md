@@ -10,4 +10,11 @@ To address this problem, we plan to employ three different machine learning algo
 ## Success Metrics
 The successful development of these predictive models will enable Maji Marefu to prioritize maintenance and repair efforts effectively, ensuring the efficient allocation of resources and the continued provision of clean water to communities in Tanzania.
 
-## Data Understanding
+## Instructions for Running the Code
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Install the required Python libraries.
+4. Run the Jupyter notebooks in the notebooks/ directory sequentially to reproduce the analysis.
+
+## Authors
+[Caleb Kenyatta](https://github.com/CarlAK96/)
